@@ -1,12 +1,42 @@
 # Kloi
-https://github.com/Naomer/Vee/blob/cf4849b00a55bc6259875cbcef6ec42054a0209c/01.png
-https://github.com/Naomer/kloiai/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG
-<p align="center">
-  <img src="https://github.com/Naomer/kloiai/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG" width="24%">
-  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/02.png" width="24%">
-  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/03.png" width="24%">
-  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/04.png" width="24%">
+## Screenshots
+
+> Real screenshots from the Kloi mobile app (Flutter)
+
+### Authentication & Onboarding
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7497.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7498.JPG" width="220" />
 </p>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7499.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7500.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7501.JPG" width="220" />
+</p>
+
+---
+
+### Profile & Settings
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7504.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7505.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7507.JPG" width="220" />
+</p>
+
+---
+
+### App Flow & Home
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7508.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7509.JPG" width="220" />
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7510.JPG" width="220" />
+</p>
+
 
 Kloi is a fast, mobile‑first application built with Flutter and Supabase, focused on secure authentication, clean UX, and production‑ready architecture.
 
