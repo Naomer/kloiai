@@ -5,14 +5,14 @@
 
 <p float="left">
  
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7497.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7508.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7509.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7510.JPG?raw=1" width="220" />
   
 </p>
 
 <p float="left">
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7499.JPG?raw=1" width="220" />
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7500.JPG?raw=1" width="220" />
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7501.JPG?raw=1" width="220" />
+  
 </p>
 
 ---
@@ -20,10 +20,9 @@
 ### Profile & Settings
 
 <p float="left">
-  
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7508.JPG?raw=1" width="220" />
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7509.JPG?raw=1" width="220" />
-  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7510.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7499.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7500.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7501.JPG?raw=1" width="220" />
    <img src="https://github.com/Naomer/kloiai/blob/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG?raw=1" width="220" />
 </p>
 
@@ -37,6 +36,7 @@
   <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7505.JPG?raw=1" width="220" />
   <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7507.JPG?raw=1" width="220" />
    <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7498.JPG?raw=1" width="220" />
+  <img src="https://github.com/Naomer/kloiai/blob/f2d05d2b57e62477b3d8778b6bba990f9a32a371/IMG_7497.JPG?raw=1" width="220" />
 </p>
 
 
