@@ -1,4 +1,12 @@
 # Kloi
+https://github.com/Naomer/Vee/blob/cf4849b00a55bc6259875cbcef6ec42054a0209c/01.png
+https://github.com/Naomer/kloiai/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG
+<p align="center">
+  <img src="https://github.com/Naomer/kloiai/445fa48c7b75169cc6cfeab2c868f389b0439dca/IMG_7494.JPG" width="24%">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/02.png" width="24%">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/03.png" width="24%">
+  <img src="https://raw.githubusercontent.com/Naomer/kloiai/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/04.png" width="24%">
+</p>
 
 Kloi is a fast, mobile‑first application built with Flutter and Supabase, focused on secure authentication, clean UX, and production‑ready architecture.
 
