@@ -133,9 +133,3 @@ MIT License
 
 ---
 
-If you want next:
-- a **short README** for landing pages  
-- **badges** (Flutter, Supabase, MIT)  
-- or a **CONTRIBUTING.md**
-
-Say the word.
